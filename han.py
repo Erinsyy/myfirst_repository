@@ -8,4 +8,4 @@ def han(n,x,y,z):
 		han(n-1,y,x,z)
 n=int(input('shuru ceng shu:'))
 han(n,'x','y','z')
-
+print "hello world"
